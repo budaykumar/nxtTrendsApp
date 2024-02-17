@@ -1,0 +1,10 @@
+.productsImg {
+  height: 500px;
+  width: 400px;
+}
+.productsCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
